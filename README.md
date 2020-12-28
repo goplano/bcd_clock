@@ -1,4 +1,6 @@
-# untitled1
+# BCD Clock
+
+Simple 'binary clock'
 
 ## Project setup
 ```
